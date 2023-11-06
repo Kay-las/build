@@ -1,0 +1,1 @@
+data class Subject(  private val nameSubject: String, val square: Int)

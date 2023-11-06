@@ -1,0 +1,1 @@
+class SpaceUsageTooMuchException(message: String?) : Exception(message)

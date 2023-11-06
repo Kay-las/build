@@ -1,0 +1,1 @@
+class IlluminanceTooMuchException(message: String?) : Exception(message)
